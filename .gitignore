@@ -1,0 +1,11 @@
+# only code, the English README and one screenshot go to GitHub
+/*
+!/.gitignore
+!/.github/
+!/src/
+!/tools/
+!/toon_ingame.jpg
+
+# 3D models and textures stay private
+*.rbxmx
+__pycache__/
